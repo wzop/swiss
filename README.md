@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+Swisstronik contract deployed to 0xD06F9E18e9386aeC6e2386d30D57e4e9C7ae5ce2
